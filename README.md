@@ -73,7 +73,7 @@ Future improvements can focus on:
 ---
 
 ### ✨ Author
-**Roy Maluks** — Aspiring Data Analyst passionate about turning data into actionable insights.  
+**Ntshembo Maluleke** — Aspiring Data Analyst passionate about turning data into actionable insights.  
 Currently exploring **Snowflake**, **SQL**, and **Excel-based analytics** to build a strong data portfolio.
 
 ---
